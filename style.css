@@ -1,6 +1,9 @@
-body{
+body,html{
     height: 100%;
     margin:0;
+}
+
+.container{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -12,7 +15,7 @@ body{
     width: 50px;
     border-radius: 50%;
     background-color: cornflowerblue;
-    flex-direction: ;
+    
     
     
 }
